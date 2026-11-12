@@ -8,3 +8,7 @@
 # Use os.getcwd().
 #
 # Write your solution below.
+
+import os
+
+print(os.getcwd())

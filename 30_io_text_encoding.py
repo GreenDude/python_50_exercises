@@ -8,3 +8,20 @@
 # Use encode() and decode().
 #
 # Write your solution below.
+
+
+# import random
+
+# num = random.randint(50, 100)
+
+import math
+
+
+b = 4.5
+# b = float("NaN")
+
+c = math.isnan(b)
+
+print(b)
+
+print(c)

@@ -8,3 +8,10 @@
 # Use os.path.exists().
 #
 # Write your solution below.
+
+import os
+
+if os.path.exists("hello.txt"):
+    print('File exists')
+else:
+    print('File does not exist')
